@@ -26,7 +26,6 @@ const colors = [
 //     canvas.height = window.innerHeight;
 // });
 
-
 addEventListener('mousemove', event => {
     mouse.x = event.clientX;
     mouse.y = event.clientY;
